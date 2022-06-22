@@ -106,11 +106,11 @@ Inicio
       menorNome<- nome5
    fimse
    Escreval("--------------------------------------------------------")
-   Escreval("A média dos Salarios é de: ",Media )
+   Escreval("A média dos Salarios é de: ","R$",Media)
    Escreval("--------------------------------------------------------")
-   Escreval("o Maior Salario é do ",maiorNome," sendo",maiorSalario)
+   Escreval("o Maior Salario é do ",maiorNome," sendo ","R$",maiorSalario)
    Escreval("------------------------------------------------------")
-   Escreval("o Menor Salario é do ",menorNome," sendo",menorSalario)
+   Escreval("o Menor Salario é do ",menorNome," sendo ","R$",menorSalario)
    Escreval("------------------------------------------------------")
 
 

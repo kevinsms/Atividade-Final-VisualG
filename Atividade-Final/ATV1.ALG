@@ -45,6 +45,17 @@ Inicio
    i<- i+1
 
 fimenquanto
+
+se alturaM = 99999 entao
+
+alturaM<- 0
+fimse
+
+se alturaF = 99999 entao
+
+alturaF<- 0
+fimse
+
 Escreval("A menor altura Masculina foi de: ",alturaM)
 
 Escreval("A menor altura Feminina foi de: ",alturaF)
